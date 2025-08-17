@@ -5,20 +5,15 @@
 >>>>>>> origin/jogador-1
 # Jogo da Velha - Registro de Jogadas entre 2 Branchs
 
-# Branches: jogada-jadson (X), jogada-michael (O)
+# Branches: jogador-1 (X), jogador-2 (O)
 # Posições: 1-9 (veja o tabuleiro abaixo)
 
 # Tabuleiro:
-<<<<<<< HEAD
-# O | 2 | 3
-# 4 | 5 | 6
-=======
+
+
 # O | 2 | O
-# 4 | X | X
->>>>>>> origin/jogador-1
+# X | X | X
 # 7 | 8 | 9
 
-# Formato da jogada:
-# branch; posição; símbolo
 
 ===============================
