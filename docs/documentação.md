@@ -23,7 +23,7 @@
 	7 | 8 | 9
 	```
 
-## Jogada 3 - Branch: jogador-2 (X)
+## Jogada 3 - Branch: jogador-1 (X)
 - Jogadas realizadas:
 	- Posição escolhida: 6 (linha do meio á direita)
 	- Estratégia: Ataque, para tentar formar linha em orientação horizontal pelo meio.
@@ -45,7 +45,7 @@
 	7 | 8 | 9
 	```
 
-## Jogada 5 - Branch: jogador-2 (X)
+## Jogada 5 - Branch: jogador-1 (X)
 - Jogadas realizadas:
 	- Posição escolhida: 4 (linha do meio á esquerda)
 	- Estratégia: Ataque, para finalizar o jogo.
