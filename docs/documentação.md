@@ -1,0 +1,16 @@
+<!-- Criando a docs do projeto -->
+
+# Jogo da Velha - Registro de Jogadas entre 2 Branchs
+
+# Branches: jogada-jadson (X), jogada-michael (O)
+# Posições: 1-9 (veja o tabuleiro abaixo)
+
+# Tabuleiro:
+# 1 | 2 | 3
+# 4 | 5 | 6
+# 7 | 8 | 9
+
+# Formato da jogada:
+# branch; posição; símbolo
+
+===============================
