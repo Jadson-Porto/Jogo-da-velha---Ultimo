@@ -1,19 +1,22 @@
-<<<<<<< HEAD
-=======
+Modelo de Tabuleiro:
+
+# 1 | 2 | 3
+# 4 | 5 | 6
+# 7 | 8 | 9
+
+===============================
+
 <!-- jogo da velha -->
 
->>>>>>> origin/jogador-1
-# Jogo da Velha - Registro de Jogadas entre 2 Branchs
+# Jogo da Velha - Registro de Jogadas entre 2 Branchs.
 
 # Branches: jogador-1 (X), jogador-2 (O)
 # Posições: 1-9 (veja o tabuleiro abaixo)
 
-# Tabuleiro:
-
+# Tabuleiro após a jogada:
 
 # O | 2 | O
 # X | X | X
 # 7 | 8 | 9
-
 
 ===============================
